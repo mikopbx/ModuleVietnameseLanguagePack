@@ -3,6 +3,6 @@
 declare(strict_types=1);
 
 return [
-    'BreadcrumbModuleVietnameseLanguagePack' => 'Vietnamese Language Pack',
+    'BreadcrumbModuleVietnameseLanguagePack' => 'Language Pack - Vietnamese',
     'SubHeaderModuleVietnameseLanguagePack' => 'Complete Vietnamese language support for MikoPBX',
 ];
