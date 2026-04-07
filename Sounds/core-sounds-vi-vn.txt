@@ -1,0 +1,546 @@
+; Core Asterisk Sounds in Vietnamese (Tiếng Việt)
+; Generated using Meta MMS-TTS (facebook/mms-tts-vie)
+; Sample rate: 16000 Hz, mono, 16-bit PCM WAV
+; Total entries: 541
+;
+activated: Đã kích hoạt.
+added: Đã thêm.
+agent-alreadyon: Tổng đài viên đó đã đăng nhập rồi. Vui lòng nhập số tổng đài viên của bạn, sau đó nhấn phím thăng.
+agent-incorrect: Đăng nhập không đúng. Vui lòng nhập số tổng đài viên của bạn, sau đó nhấn phím thăng.
+agent-loggedoff: Tổng đài viên đã đăng xuất.
+agent-loginok: Tổng đài viên đã đăng nhập.
+agent-newlocation: Vui lòng nhập số nội bộ mới, sau đó nhấn phím thăng.
+agent-pass: Vui lòng nhập mật khẩu của bạn, sau đó nhấn phím thăng.
+agent-user: Đăng nhập tổng đài viên. Vui lòng nhập số tổng đài viên của bạn, sau đó nhấn phím thăng.
+all-circuits-busy-now: Tất cả các đường dây hiện đang bận.
+astcc-followed-by-the-pound-key: Sau đó nhấn phím thăng.
+at-tone-time-exactly: Khi nghe tiếng bíp, thời gian chính xác sẽ là...
+auth-incorrect: Mật khẩu không đúng. Vui lòng nhập mật khẩu của bạn, sau đó nhấn phím thăng.
+auth-thankyou: Xin cảm ơn.
+call-forwarding: Chuyển tiếp cuộc gọi.
+call-fwd-no-ans: Chuyển tiếp cuộc gọi khi không trả lời.
+call-fwd-on-busy: Chuyển tiếp cuộc gọi khi bận.
+call-fwd-unconditional: Chuyển tiếp cuộc gọi không điều kiện.
+call-waiting: Chờ cuộc gọi.
+calling: Đang gọi.
+cancelled: Đã hủy.
+cannot-complete-as-dialed: Cuộc gọi của bạn không thể thực hiện theo số đã quay.
+check-number-dial-again: Vui lòng kiểm tra lại số và quay số lần nữa.
+conf-adminmenu: Vui lòng nhấn 1 để tắt hoặc bật tiếng của bạn, 2 để khóa hoặc mở khóa hội nghị, 3 để loại bỏ người dùng cuối cùng, 4 hoặc 6 để giảm hoặc tăng âm lượng hội nghị, 7 hoặc 9 để giảm hoặc tăng âm lượng của bạn, hoặc 8 để thoát.
+conf-adminmenu-162: Vui lòng nhấn 1 để tắt hoặc bật tiếng của bạn, 2 để khóa hoặc mở khóa hội nghị, 3 để loại bỏ người dùng cuối cùng, 4 hoặc 6 để giảm hoặc tăng âm lượng hội nghị, 5 để gia hạn hội nghị, 7 hoặc 9 để giảm hoặc tăng âm lượng của bạn, hoặc 8 để thoát.
+conf-adminmenu-18: Vui lòng nhấn 1 để tắt hoặc bật tiếng của bạn, 2 để khóa hoặc mở khóa hội nghị, 3 để loại bỏ người dùng cuối cùng, 4 hoặc 6 để giảm hoặc tăng âm lượng hội nghị, 5 để gia hạn hội nghị, 7 hoặc 9 để giảm hoặc tăng âm lượng của bạn, hoặc 8 để xem thêm tùy chọn.
+conf-adminmenu-menu8: Nhấn 1 để liệt kê người dùng hiện đang trong hội nghị, 2 để loại bỏ tất cả người dùng không phải quản trị viên, 3 để tắt hoặc bật tiếng tất cả người dùng không phải quản trị viên, 4 để ghi âm hội nghị này, hoặc 8 để thoát menu này và quay lại hội nghị.
+conf-enteringno: Bạn đang tham gia hội nghị số
+conf-errormenu: Lựa chọn không hợp lệ.
+conf-extended: Hội nghị đã được gia hạn.
+conf-full: Hội nghị đó đã đầy.
+conf-getchannel: Vui lòng nhập số kênh, sau đó nhấn phím thăng.
+conf-getconfno: Vui lòng nhập số hội nghị của bạn, sau đó nhấn phím thăng.
+conf-getpin: Vui lòng nhập mã PIN hội nghị.
+conf-hasjoin: đã tham gia hội nghị.
+conf-hasleft: đã rời khỏi hội nghị.
+conf-invalid: Đó không phải là số hội nghị hợp lệ. Vui lòng thử lại.
+conf-invalidpin: Mã PIN đó không hợp lệ cho hội nghị này.
+conf-kicked: Bạn đã bị loại khỏi hội nghị này.
+conf-leaderhasleft: Người chủ trì đã rời khỏi hội nghị.
+conf-locked: Hội nghị này đã bị khóa!
+conf-lockednow: Hội nghị hiện đã bị khóa.
+conf-muted: Bạn đã bị tắt tiếng.
+conf-noempty: Hiện không có hội nghị trống nào.
+conf-nonextended: Hội nghị không thể gia hạn.
+conf-now-muted: Hội nghị hiện đã bị tắt tiếng.
+conf-now-recording: Hội nghị hiện đang được ghi âm.
+conf-now-unmuted: Hội nghị hiện đã được bật tiếng.
+conf-onlyone: Hiện có một người tham gia khác trong hội nghị.
+conf-onlyperson: Bạn hiện là người duy nhất trong hội nghị này.
+conf-otherinparty: người tham gia khác trong hội nghị.
+conf-placeintoconf: Bạn sẽ được đưa vào hội nghị ngay bây giờ.
+conf-roll-callcomplete: Đã phát xong danh sách những người tham dự.
+conf-thereare: Hiện có
+conf-unlockednow: Hội nghị hiện đã được mở khóa.
+conf-unmuted: Bạn đã được bật tiếng.
+conf-usermenu: Vui lòng nhấn phím một để tắt hoặc bật tiếng, phím bốn hoặc sáu để giảm hoặc tăng âm lượng hội nghị, phím bảy hoặc chín để giảm hoặc tăng âm lượng của bạn, hoặc phím tám để thoát.
+conf-usermenu-162: Vui lòng nhấn phím một để tắt hoặc bật tiếng, phím bốn hoặc sáu để giảm hoặc tăng âm lượng hội nghị, phím năm để gia hạn hội nghị, phím bảy hoặc chín để giảm hoặc tăng âm lượng của bạn, hoặc phím tám để thoát menu này và quay lại hội nghị.
+conf-userswilljoin: người dùng sẽ tham gia hội nghị.
+conf-userwilljoin: người dùng sẽ tham gia hội nghị.
+conf-waitforleader: Hội nghị sẽ bắt đầu khi người chủ trì đến.
+confbridge-begin-glorious-a: hội nghị sẽ bắt đầu khi người chủ trì kính mến của chúng ta đến
+confbridge-begin-glorious-b: hội nghị sẽ bắt đầu khi người chủ trì kính mến của chúng ta đến
+confbridge-begin-glorious-c: hội nghị sẽ bắt đầu khi người chủ trì kính mến của chúng ta đến
+confbridge-begin-leader: hội nghị sẽ bắt đầu khi người chủ trì đến
+confbridge-binaural-off: Âm thanh ba chiều đã tắt.
+confbridge-binaural-on: Âm thanh ba chiều đã bật.
+confbridge-conf-begin: hội nghị sẽ bắt đầu ngay bây giờ
+confbridge-conf-end: hội nghị đã kết thúc
+confbridge-dec-list-vol-in: Để giảm âm lượng nghe từ những người tham gia khác...
+confbridge-dec-list-vol-out: ...để giảm âm lượng nghe từ những người tham gia khác.
+confbridge-dec-talk-vol-in: Để giảm âm lượng nói của bạn tới những người tham gia khác...
+confbridge-dec-talk-vol-out: ...để giảm âm lượng nói của bạn tới những người tham gia khác.
+confbridge-has-joined: ...đã tham gia hội nghị.
+confbridge-has-left: ...đã rời khỏi hội nghị.
+confbridge-inc-list-vol-in: Để tăng âm lượng nghe từ những người tham gia khác...
+confbridge-inc-list-vol-out: ...để tăng âm lượng nghe từ những người tham gia khác.
+confbridge-inc-talk-vol-in: Để tăng âm lượng nói của bạn tới những người tham gia khác...
+confbridge-inc-talk-vol-out: ...để tăng âm lượng nói của bạn tới những người tham gia khác.
+confbridge-invalid: Bạn đã nhập một lựa chọn không hợp lệ.
+confbridge-leave-in: Để rời khỏi hội nghị...
+confbridge-leave-out: ...để rời khỏi hội nghị.
+confbridge-lock-extended: ...để khóa hoặc mở khóa hội nghị. Khi hội nghị bị khóa, chỉ quản trị viên hội nghị mới có thể tham gia.
+confbridge-lock-in: Để khóa hoặc mở khóa hội nghị...
+confbridge-lock-no-join: Hội nghị hiện đang bị khóa và không thể tham gia.
+confbridge-lock-out: ...để khóa hoặc mở khóa hội nghị.
+confbridge-locked: Hội nghị hiện đã bị khóa.
+confbridge-menu-exit-in: Để thoát khỏi menu...
+confbridge-menu-exit-out: ...để thoát khỏi menu.
+confbridge-mute-extended: ...để tắt hoặc bật tiếng của bạn. Khi bạn bị tắt tiếng, bạn không thể gửi âm thanh tới những người tham gia khác. Tuy nhiên, bạn vẫn nghe được âm thanh từ những người tham gia khác chưa bị tắt tiếng.
+confbridge-mute-in: Để tắt hoặc bật tiếng của bạn...
+confbridge-mute-out: ...để tắt hoặc bật tiếng của bạn.
+confbridge-muted: Bạn đã bị tắt tiếng.
+confbridge-only-one: Hiện có một người tham gia khác trong hội nghị.
+confbridge-only-participant: Bạn hiện là người tham gia duy nhất trong hội nghị.
+confbridge-participants: ...người tham gia trong hội nghị.
+confbridge-pin: Vui lòng nhập mã nhận dạng cá nhân của bạn, sau đó nhấn phím thăng.
+confbridge-pin-bad: Bạn đã nhập sai mã nhận dạng cá nhân quá nhiều lần.
+confbridge-remove-last-in: Để loại bỏ người tham gia vừa mới tham gia hội nghị gần đây nhất...
+confbridge-remove-last-out: ...để loại bỏ người tham gia vừa mới tham gia hội nghị gần đây nhất.
+confbridge-removed: Bạn đã bị loại khỏi hội nghị.
+confbridge-rest-list-vol-in: Để đặt lại âm lượng hội nghị về mức mặc định...
+confbridge-rest-list-vol-out: ...để đặt lại âm lượng hội nghị về mức mặc định.
+confbridge-rest-talk-vol-in: Để đặt lại âm lượng nói của bạn về mức mặc định...
+confbridge-rest-talk-vol-out: ...để đặt lại âm lượng nói của bạn về mức mặc định.
+confbridge-there-are: Hiện có...
+confbridge-unlocked: Hội nghị hiện đã được mở khóa.
+confbridge-unmuted: Bạn đã được bật tiếng trở lại.
+de-activated: Đã tắt kích hoạt.
+dictate/both_help: nhấn phím sao để chuyển đổi tạm dừng, nhấn phím thăng để nhập tên tệp đọc chính tả mới
+dictate/enter_filename: Nhập tên tệp đọc chính tả dạng số theo sau bởi phím thăng hoặc chỉ nhấn phím thăng để thoát
+dictate/forhelp: nhấn 0 để được trợ giúp
+dictate/pause: tạm dừng
+dictate/paused: đã tạm dừng
+dictate/play_help: nhấn 1 để chuyển sang chế độ ghi âm, nhấn 2 để chuyển đổi phát nhanh, nhấn 7 để tua lùi, nhấn 8 để tua tới
+dictate/playback: phát lại
+dictate/playback_mode: chế độ phát lại
+dictate/record: ghi âm
+dictate/record_help: nhấn 1 để chuyển sang chế độ phát lại, nhấn 8 để cắt bỏ tệp và bắt đầu lại
+dictate/record_mode: chế độ ghi âm
+dictate/truncating_audio: đang cắt bỏ âm thanh
+digits/0: không
+digits/1: một
+digits/10: mười
+digits/11: mười một
+digits/12: mười hai
+digits/13: mười ba
+digits/14: mười bốn
+digits/15: mười lăm
+digits/16: mười sáu
+digits/17: mười bảy
+digits/18: mười tám
+digits/19: mười chín
+digits/2: hai
+digits/20: hai mươi
+digits/3: ba
+digits/30: ba mươi
+digits/4: bốn
+digits/40: bốn mươi
+digits/5: năm
+digits/50: năm mươi
+digits/6: sáu
+digits/60: sáu mươi
+digits/7: bảy
+digits/70: bảy mươi
+digits/8: tám
+digits/80: tám mươi
+digits/9: chín
+digits/90: chín mươi
+digits/a-m: sáng
+digits/at: lúc
+digits/billion: tỷ
+digits/day-0: Chủ nhật
+digits/day-1: Thứ hai
+digits/day-2: Thứ ba
+digits/day-3: Thứ tư
+digits/day-4: Thứ năm
+digits/day-5: Thứ sáu
+digits/day-6: Thứ bảy
+digits/dollars: đô la
+digits/h-1: thứ nhất
+digits/h-10: thứ mười
+digits/h-11: thứ mười một
+digits/h-12: thứ mười hai
+digits/h-13: thứ mười ba
+digits/h-14: thứ mười bốn
+digits/h-15: thứ mười lăm
+digits/h-16: thứ mười sáu
+digits/h-17: thứ mười bảy
+digits/h-18: thứ mười tám
+digits/h-19: thứ mười chín
+digits/h-2: thứ hai
+digits/h-20: thứ hai mươi
+digits/h-3: thứ ba
+digits/h-30: thứ ba mươi
+digits/h-4: thứ tư
+digits/h-40: thứ bốn mươi
+digits/h-5: thứ năm
+digits/h-50: thứ năm mươi
+digits/h-6: thứ sáu
+digits/h-60: thứ sáu mươi
+digits/h-7: thứ bảy
+digits/h-70: thứ bảy mươi
+digits/h-8: thứ tám
+digits/h-80: thứ tám mươi
+digits/h-9: thứ chín
+digits/h-90: thứ chín mươi
+digits/h-billion: phần tỷ
+digits/h-hundred: phần trăm
+digits/h-million: phần triệu
+digits/h-thousand: phần nghìn
+digits/hundred: trăm
+digits/million: triệu
+digits/minus: âm
+digits/mon-0: Tháng một
+digits/mon-1: Tháng hai
+digits/mon-10: Tháng mười một
+digits/mon-11: Tháng mười hai
+digits/mon-2: Tháng ba
+digits/mon-3: Tháng tư
+digits/mon-4: Tháng năm
+digits/mon-5: Tháng sáu
+digits/mon-6: Tháng bảy
+digits/mon-7: Tháng tám
+digits/mon-8: Tháng chín
+digits/mon-9: Tháng mười
+digits/oclock: giờ
+digits/oh: không
+digits/p-m: chiều
+digits/pound: phím thăng
+digits/star: phím sao
+digits/thousand: nghìn
+digits/today: hôm nay
+digits/tomorrow: ngày mai
+digits/yesterday: hôm qua
+dir-first: các chữ cái tên của người bạn cần liên hệ.
+dir-firstlast: ... các chữ cái tên hoặc họ của người bạn cần liên hệ.
+dir-instr: Nếu đây là người bạn đang tìm, vui lòng nhấn 1, nếu không vui lòng nhấn phím sao.
+dir-intro: Chào mừng bạn đến với danh bạ. Vui lòng nhập ba chữ cái đầu tiên trong họ của người bạn cần liên hệ bằng bàn phím số. Sử dụng phím 7 cho chữ Q và phím 9 cho chữ Z.
+dir-intro-fn: Chào mừng bạn đến với danh bạ. Vui lòng nhập ba chữ cái đầu tiên trong tên của người bạn cần liên hệ bằng bàn phím số. Sử dụng phím 7 cho chữ Q và phím 9 cho chữ Z.
+dir-last: ... các chữ cái họ của người bạn cần liên hệ.
+dir-multi1: Nhấn ...
+dir-multi2: ... cho ...
+dir-multi3: ... số nội bộ ...
+dir-multi9: Nhấn 9 để xem thêm mục.
+dir-nomatch: Không tìm thấy mục danh bạ nào phù hợp với tìm kiếm của bạn.
+dir-nomore: Không còn mục nào phù hợp trong danh bạ.
+dir-pls-enter: Vui lòng nhập ba chữ cái đầu tiên ...
+dir-usingkeypad: ... bằng bàn phím số. Sử dụng phím 7 cho chữ Q và phím 9 cho chữ Z.
+dir-welcome: Chào mừng bạn đến với danh bạ
+disabled: Đã tắt.
+do-not-disturb: Không làm phiền.
+enabled: Đã bật.
+enter-num-blacklist: Vui lòng nhập số cần đưa vào danh sách chặn.
+entr-num-rmv-blklist: Vui lòng nhập số cần xóa khỏi danh sách chặn.
+extension: Số nội bộ.
+feature-not-avail-line: Tính năng đó không khả dụng trên đường dây này.
+followme/call-from: cuộc gọi đến từ
+followme/no-recording: bạn có một cuộc gọi đến
+followme/options: nhấn 1 để chấp nhận cuộc gọi này, hoặc 2 để từ chối
+followme/pls-hold-while-try: vui lòng giữ máy trong khi tôi tìm người bạn đang gọi
+followme/sorry: Xin lỗi, chúng tôi không thể liên lạc được với người bạn đang gọi.
+followme/status: người bạn đang gọi không có mặt tại bàn làm việc; tôi sẽ cố gắng tìm họ cho bạn
+for: Cho.
+from-unknown-caller: Từ một người gọi không xác định.
+goodbye: Tạm biệt!
+hello: Xin chào.
+hello-world: Xin chào thế giới.
+hours: giờ
+if-correct-press: Nếu đúng, vui lòng nhấn...
+im-sorry: Tôi xin lỗi.
+info-about-last-call: Thông tin về cuộc gọi cuối cùng của bạn.
+invalid: Xin lỗi, đó không phải là số nội bộ hợp lệ. Vui lòng thử lại.
+is: Là.
+is-in-use: Đang được sử dụng.
+is-set-to: Được đặt thành.
+letters/a: a
+letters/ascii123: ngoặc nhọn trái
+letters/ascii124: thanh dọc
+letters/ascii125: ngoặc nhọn phải
+letters/ascii126: dấu ngã
+letters/ascii34: dấu ngoặc kép
+letters/ascii36: ký hiệu đô la
+letters/ascii37: phần trăm
+letters/ascii38: dấu và
+letters/ascii39: dấu nháy đơn
+letters/ascii40: mở ngoặc tròn
+letters/ascii41: đóng ngoặc tròn
+letters/ascii42: dấu sao
+letters/ascii44: dấu phẩy
+letters/ascii58: dấu hai chấm
+letters/ascii59: dấu chấm phẩy
+letters/ascii60: nhỏ hơn
+letters/ascii62: lớn hơn
+letters/ascii63: dấu chấm hỏi
+letters/ascii91: ngoặc vuông trái
+letters/ascii92: dấu gạch chéo ngược
+letters/ascii93: ngoặc vuông phải
+letters/ascii94: dấu mũ
+letters/ascii95: dấu gạch dưới
+letters/ascii96: dấu huyền
+letters/asterisk: dấu sao
+letters/at: a còng
+letters/b: bê
+letters/c: xê
+letters/d: đê
+letters/dash: dấu gạch ngang
+letters/dollar: đô la
+letters/dot: dấu chấm
+letters/e: e
+letters/equals: dấu bằng
+letters/exclaimation-point: dấu chấm than
+letters/f: ép
+letters/g: giê
+letters/h: hát
+letters/i: i
+letters/j: di
+letters/k: ca
+letters/l: e lờ
+letters/m: em mờ
+letters/n: en nờ
+letters/o: o
+letters/p: pê
+letters/plus: dấu cộng
+letters/q: cu
+letters/r: e rờ
+letters/s: ét xì
+letters/slash: dấu gạch chéo
+letters/space: dấu cách
+letters/t: tê
+letters/u: u
+letters/v: vê
+letters/w: vê kép
+letters/x: ích xì
+letters/y: i dài
+letters/z: dét
+letters/zed: dét
+location: Vị trí.
+lowercase: chữ thường
+minute: phút
+minutes: phút
+num-was-successfully: Số đã được thực hiện thành công...
+number: Số.
+number-not-answering: Số này không trả lời.
+one-moment-please: Xin vui lòng chờ một chút.
+pbx-invalid: Xin lỗi, đó không phải là số nội bộ hợp lệ. Vui lòng thử lại.
+pbx-invalidpark: Xin lỗi, không có cuộc gọi nào đang đỗ tại số nội bộ đó. Vui lòng thử lại.
+pbx-parkingfailed: Đỗ cuộc gọi thất bại.
+pbx-transfer: Chuyển máy.
+phonetic/9_p: niner
+phonetic/a_p: alpha
+phonetic/b_p: bravo
+phonetic/c_p: charlie
+phonetic/d_p: delta
+phonetic/e_p: echo
+phonetic/f_p: foxtrot
+phonetic/g_p: golf
+phonetic/h_p: hotel
+phonetic/i_p: india
+phonetic/j_p: juliet
+phonetic/k_p: kilo
+phonetic/l_p: lima
+phonetic/m_p: mike
+phonetic/n_p: november
+phonetic/o_p: oscar
+phonetic/p_p: papa
+phonetic/q_p: quebec
+phonetic/r_p: romeo
+phonetic/s_p: sierra
+phonetic/t_p: tango
+phonetic/u_p: uniform
+phonetic/v_p: victor
+phonetic/w_p: whiskey
+phonetic/x_p: xray
+phonetic/y_p: yankee
+phonetic/z_p: zulu
+please-try-again: Vui lòng thử lại.
+please-try-call-later: Vui lòng gọi lại sau.
+pls-hold-while-try: Vui lòng giữ máy trong khi chúng tôi kết nối cho bạn.
+pls-try-call-later: Vui lòng gọi lại sau.
+pm-invalid-option: Tùy chọn đó không hợp lệ. Vui lòng thử lại.
+priv-callee-options: Nhấn 1 nếu bạn muốn người gọi này liên hệ trực tiếp với bạn ngay bây giờ và trong tương lai. Nhấn 2 nếu bạn muốn chuyển người gọi này đến hộp thư thoại ngay bây giờ và mãi mãi. Nhấn 3 để chuyển người gọi này đến menu từ chối, ngay bây giờ và mãi mãi. Nhấn 4 để chuyển người gọi này đến menu lịch sự "xin đừng gọi", ngay bây giờ và mãi mãi. Nhấn 5 để cho phép người gọi này liên hệ trực tiếp với bạn trong tương lai, nhưng chỉ lần này, chuyển họ đến hộp thư thoại.
+priv-callpending: Tôi có một người gọi đang chờ, họ tự giới thiệu là:
+priv-introsaved: Cảm ơn bạn. Vui lòng giữ máy trong khi tôi cố gắng kết nối bạn với người cần liên hệ!
+priv-recordintro: Sau tiếng bíp, vui lòng nói tên của bạn.
+privacy-incorrect: Xin lỗi, số đó không hợp lệ.
+privacy-prompt: Vui lòng nhập số điện thoại của bạn, bắt đầu bằng mã vùng.
+privacy-thankyou: Cảm ơn bạn.
+privacy-to-blacklist-last-caller: Người gọi cuối cùng là...
+privacy-unident: Người bạn đang cố liên hệ không chấp nhận các cuộc gọi không xác định.
+queue-callswaiting: Đang chờ để nói chuyện với nhân viên tư vấn.
+queue-holdtime: Thời gian chờ ước tính hiện tại là
+queue-less-than: ít hơn
+queue-minute: phút
+queue-minutes: phút
+queue-periodic-announce: Tất cả nhân viên tư vấn của chúng tôi hiện đang bận. Vui lòng giữ máy, cuộc gọi của bạn sẽ được nhân viên tư vấn tiếp theo trả lời.
+queue-quantity1: Hiện tại có hơn...
+queue-quantity2: ...người đang chờ để nói chuyện với nhân viên tư vấn.
+queue-reporthold: Thời gian chờ
+queue-seconds: giây
+queue-thankyou: Cảm ơn bạn đã kiên nhẫn chờ đợi.
+queue-thereare: Bạn hiện đang ở vị trí thứ
+queue-youarenext: Cuộc gọi của bạn hiện đang ở vị trí đầu tiên và sẽ được nhân viên tư vấn tiếp theo trả lời.
+removed: Đã xóa.
+screen-callee-options: Bạn có các tùy chọn sau: Nhấn 1 nếu bạn muốn kết nối ngay với cuộc gọi đến. Nhấn 2 nếu bạn muốn chuyển người gọi này đến hộp thư thoại. Nhấn 3 để chuyển người gọi này đến menu từ chối. Nhấn 4 để chuyển người gọi này đến menu lịch sự "xin đừng gọi".
+second: giây
+seconds: giây
+simul-call-limit-reached: Đã đạt giới hạn số cuộc gọi đồng thời.
+something-terribly-wrong: Đã xảy ra lỗi nghiêm trọng!
+sorry: Chúng tôi xin lỗi.
+sorry-youre-having-problems: Xin lỗi vì bạn đang gặp sự cố.
+speed-dial: Quay số nhanh.
+speed-dial-empty: Mục quay số nhanh mà bạn truy cập hiện đang trống.
+spy-agent: Agent
+spy-console: Console
+spy-dahdi: DAHDI
+spy-h323: H.323
+spy-iax: IAX
+spy-iax2: IAX
+spy-jingle: Jingle
+spy-local: Local
+spy-mgcp: MGCP
+spy-misdn: M I S D N
+spy-mobile: Bluetooth Mobile
+spy-nbs: N B S
+spy-sip: SIP
+spy-skinny: Skinny
+spy-unistim: Unistim
+spy-usbradio: USB Radio
+spy-zap: Zap
+ss-noservice: Số bạn đã quay hiện không còn hoạt động. Vui lòng kiểm tra lại số và thử lại.
+telephone-number: Số điện thoại.
+time: Thời gian.
+to-call-this-number: Để gọi số này.
+to-extension: Đến số nội bộ.
+to-listen-to-it: Để nghe lại.
+to-rerecord-it: Để ghi âm lại.
+transfer: Vui lòng giữ máy trong khi chúng tôi chuyển đến số nội bộ đó.
+tt-allbusy: Tất cả nhân viên tư vấn hiện đang bận phục vụ khách hàng khác. Vui lòng giữ máy, cuộc gọi của bạn sẽ được trả lời theo thứ tự tiếp nhận.
+tt-monkeysintro: Họ đã bị lũ khỉ mang đi
+tt-somethingwrong: Đã xảy ra lỗi nghiêm trọng
+tt-weasels: Hệ thống điện thoại đang gặp sự cố.
+unidentified-no-callback: Không xác định hoặc bị ẩn và do đó không thể gọi lại.
+uppercase: chữ hoa
+vm-Cust1: thư mục 5
+vm-Cust2: thư mục 6
+vm-Cust3: thư mục 7
+vm-Cust4: thư mục 8
+vm-Cust5: thư mục 9
+vm-Family: gia đình
+vm-Friends: bạn bè
+vm-INBOX: mới
+vm-Old: cũ
+vm-Urgent: khẩn cấp
+vm-Work: công việc
+vm-advopts: nhấn 3 để xem tùy chọn nâng cao
+vm-and: và
+vm-calldiffnum: nhấn 2 để nhập số khác
+vm-changeto: Chuyển đến thư mục nào?
+vm-delete: Nhấn 7 để xóa tin nhắn này.
+vm-deleted: Tin nhắn đã được xóa.
+vm-dialout: vui lòng chờ trong khi tôi kết nối cuộc gọi của bạn
+vm-duration: Tin nhắn này có thời lượng ...
+vm-enter-num-to-call: Vui lòng nhập số bạn muốn gọi.
+vm-extension: số nội bộ
+vm-first: đầu tiên
+vm-for: cho
+vm-forward: Nhấn 1 để nhập số nội bộ, nhấn 2 để sử dụng danh bạ
+vm-forward-multiple: nhấn 1 để gửi tin nhắn này, hoặc 2 để thêm người nhận khác.
+vm-forwardoptions: nhấn 1 để thêm lời nhắn đầu hoặc 2 để chuyển tiếp tin nhắn mà không thêm lời nhắn đầu
+vm-from: từ
+vm-from-extension: tin nhắn từ số nội bộ
+vm-from-phonenumber: tin nhắn từ số điện thoại
+vm-goodbye: Tạm biệt.
+vm-helpexit: Nhấn phím sao để được trợ giúp hoặc phím thăng để thoát.
+vm-incorrect: Đăng nhập không đúng.
+vm-incorrect-mailbox: Đăng nhập không đúng. Số hộp thư?
+vm-instructions: Để nghe tin nhắn của bạn, nhấn 1. Bạn có thể thoát hộp thư thoại bất cứ lúc nào bằng cách nhấn phím thăng.
+vm-intro: Vui lòng để lại lời nhắn sau tiếng bíp. Khi xong, hãy gác máy hoặc nhấn phím thăng.
+vm-invalid-password: Mật khẩu đó không đáp ứng yêu cầu tối thiểu cho hộp thư này. Vui lòng thử lại.
+vm-invalidpassword: Đó không phải là mật khẩu hợp lệ. Vui lòng thử lại.
+vm-isonphone: đang nghe điện thoại
+vm-isunavail: hiện không có mặt
+vm-last: cuối cùng
+vm-leavemsg: Nhấn 5 để để lại tin nhắn
+vm-login: Hộp thư thoại. Số hộp thư?
+vm-mailboxfull: xin lỗi nhưng hộp thư của người dùng không thể nhận thêm tin nhắn
+vm-marked-nonurgent: Trạng thái khẩn cấp đã được gỡ bỏ.
+vm-marked-urgent: Tin nhắn đã được đánh dấu khẩn cấp.
+vm-message: tin nhắn
+vm-messages: tin nhắn
+vm-minutes: phút
+vm-mismatch: Mật khẩu bạn đã nhập và nhập lại không khớp. Vui lòng thử lại.
+vm-msgforwarded: Tin nhắn của bạn đã được chuyển tiếp thành công.
+vm-msginstruct: Để nghe tin nhắn tiếp theo nhấn 6, để nghe lại tin nhắn này nhấn 5, để nghe tin nhắn trước đó nhấn 4, để xóa hoặc khôi phục tin nhắn này nhấn 0, để thoát hộp thư thoại nhấn phím thăng.
+vm-msgsaved: Tin nhắn của bạn đã được lưu.
+vm-newpassword: Vui lòng nhập mật khẩu mới theo sau bởi phím thăng.
+vm-newuser: Chào mừng bạn đến với Hộp thư thoại. Đầu tiên, tôi sẽ hướng dẫn bạn qua quy trình thiết lập ngắn.
+vm-next: Nhấn 6 để phát tin nhắn tiếp theo.
+vm-no: không
+vm-nobodyavail: Hiện không có ai để nhận cuộc gọi của bạn
+vm-nobox: bạn không thể trả lời tin nhắn này vì người gửi không có hộp thư
+vm-nomore: Không còn tin nhắn nào.
+vm-nonumber: Tôi không biết ai đã gửi tin nhắn này
+vm-num-i-have: số mà tôi có là
+vm-onefor: Nhấn 1 cho
+vm-onefor-full: Nhấn 1 để nghe ...
+vm-options: Nhấn 1 để ghi lời nhắn khi bạn không có mặt, nhấn 2 để ghi lời nhắn khi bạn đang bận, nhấn 3 để ghi tên của bạn, nhấn 4 để ghi lời chào tạm thời, nhấn 5 để đổi mật khẩu, nhấn phím sao để quay lại menu chính.
+vm-opts: Nhấn 2 để đổi thư mục, nhấn 3 để xem tùy chọn nâng cao, nhấn 0 để xem tùy chọn hộp thư.
+vm-opts-full: nhấn 2 để truy cập tin nhắn đã lưu trong các thư mục khác. Nhấn 3 để ghi tin nhắn cho hộp thư khác. Nhấn 0 để quản lý lời chào và mật khẩu.
+vm-passchanged: Mật khẩu của bạn đã được thay đổi.
+vm-password: mật khẩu
+vm-pls-try-again: vui lòng thử lại
+vm-press: nhấn
+vm-prev: Nhấn 4 để nghe tin nhắn trước đó
+vm-reachoper: nhấn 0 để liên hệ tổng đài viên
+vm-rec-busy: Sau tiếng bíp, hãy nói lời nhắn bận của bạn rồi nhấn phím thăng.
+vm-rec-name: Sau tiếng bíp, hãy nói tên của bạn rồi nhấn phím thăng.
+vm-rec-temp: Sau tiếng bíp, hãy nói lời nhắn tạm thời của bạn rồi nhấn phím thăng.
+vm-rec-unv: Sau tiếng bíp, hãy nói lời nhắn khi không có mặt của bạn rồi nhấn phím thăng.
+vm-received: đã nhận
+vm-record-prepend: Sau tiếng bíp, vui lòng ghi lời giới thiệu cho tin nhắn được chuyển tiếp. Khi hoàn tất, nhấn phím thăng.
+vm-reenterpassword: Vui lòng nhập lại mật khẩu theo sau bởi phím thăng.
+vm-repeat: Nhấn 5 để nghe lại tin nhắn hiện tại.
+vm-review: nhấn 1 để chấp nhận bản ghi âm này, nhấn 2 để nghe lại, nhấn 3 để ghi âm lại tin nhắn của bạn
+vm-review-nonurgent: Nhấn 4 để gỡ bỏ trạng thái khẩn cấp của tin nhắn này.
+vm-review-urgent: Nhấn 4 để đánh dấu tin nhắn này là khẩn cấp.
+vm-saved: đã lưu
+vm-savedto: đã lưu vào
+vm-savefolder: Tôi nên lưu tin nhắn vào thư mục nào?
+vm-savemessage: hoặc 9 để lưu tin nhắn này
+vm-saveoper: nhấn 1 để chấp nhận bản ghi âm này, nếu không, vui lòng tiếp tục giữ máy
+vm-sorry: Tôi xin lỗi, tôi không hiểu phản hồi của bạn.
+vm-star-cancel: nhấn phím sao để hủy
+vm-starmain: nhấn phím sao để quay lại menu chính
+vm-tempgreetactive: Lời chào tạm thời của bạn hiện đang hoạt động
+vm-tempgreeting: nhấn 1 để ghi lời chào tạm thời của bạn
+vm-tempgreeting2: nhấn 1 để ghi lời chào tạm thời của bạn, hoặc nhấn 2 để xóa lời chào tạm thời
+vm-tempremoved: Lời chào tạm thời của bạn đã được gỡ bỏ
+vm-then-pound: rồi nhấn phím thăng
+vm-theperson: Người tại số nội bộ
+vm-tmpexists: Có một lời chào tạm thời đang ghi đè lên lời chào tiêu chuẩn của bạn.
+vm-tocallback: nhấn 2 để gọi lại người đã gửi tin nhắn này
+vm-tocallnum: nhấn 1 để gọi số này
+vm-tocancel: hoặc phím thăng để hủy.
+vm-tocancelmsg: nhấn phím sao để hủy tin nhắn này
+vm-toenternumber: nhấn 1 để nhập số
+vm-toforward: Nhấn 8 để chuyển tiếp tin nhắn đến người dùng khác
+vm-tohearenv: nhấn 3 để nghe thông tin tin nhắn
+vm-tomakecall: nhấn 4 để thực hiện cuộc gọi đi
+vm-tooshort: tin nhắn của bạn quá ngắn
+vm-toreply: nhấn 1 để gửi trả lời
+vm-torerecord: nhấn 3 để ghi âm lại tin nhắn của bạn
+vm-undelete: Nhấn 7 để khôi phục tin nhắn này
+vm-undeleted: Tin nhắn đã được khôi phục.
+vm-unknown-caller: từ một người gọi không xác định
+vm-whichbox: Để để lại tin nhắn, vui lòng nhập số hộp thư.
+vm-youhave: bạn có
+with: Với.
+you-entered: Bạn đã nhập.
+your: Của bạn.
